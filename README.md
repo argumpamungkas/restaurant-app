@@ -1,16 +1,7 @@
-# restaurant_app
+# Restaurant App
 
-A new Flutter project.
+A Final Project.
 
-## Getting Started
+## Final Project IDCAMP2023 - INTERMEDATE
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Restaurant App](https://github.com/argumpamungkas/restaurant-app/assets/53247359/6203a01e-4a3c-4ec9-88c4-10b2722f31ce)
