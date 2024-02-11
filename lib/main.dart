@@ -71,6 +71,7 @@ class MyApp extends StatelessWidget {
         child: Consumer<SettingProvider>(
           builder: (context, prov, child) {
             return MaterialApp(
+              debugShowCheckedModeBanner: false,
               title: "Restaurant App",
               theme: prov.themeData,
               initialRoute: SplashPage.routeName,

@@ -58,7 +58,7 @@ class _SplashPageState extends State<SplashPage> {
                     ],
                     totalRepeatCount: 1,
                     onNext: (p0, p1) {
-                      Future.delayed(const Duration(milliseconds: 500), () {
+                      Future.delayed(const Duration(milliseconds: 5000), () {
                         Navigator.pushReplacementNamed(
                           context,
                           BottomNavBar.routeName,
